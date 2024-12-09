@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F613-52A0
+
+ Directory of C:\Users\ramch\Desktop\My project
+
+12/06/2024  02:01 PM    <DIR>          .
+12/06/2024  01:59 PM    <DIR>          ..
+12/06/2024  02:01 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,764,548,096 bytes free
